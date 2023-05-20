@@ -18,8 +18,8 @@
 <div id="logos" align="left">
    <h1> Lenguages and Tools </h1>
    <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="40" height="40"/>
    </div>
 
 
