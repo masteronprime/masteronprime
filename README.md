@@ -15,3 +15,12 @@
 <div id="badge" align="center">
    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%20%230068FF&label=RayMarcelo&style=social&url=https%3A%2F%2Ftwitter.com%2FRayHuamancari">
 </div>
+<div id="logos" align="left">
+   <h1> Lenguages and Tools </h1>
+   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
+   </div>
+
+
+</div>
