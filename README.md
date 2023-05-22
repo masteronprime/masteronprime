@@ -1,5 +1,5 @@
 <div id="headers" align="center">
- <img src="https://res.cloudinary.com/dxxjmdkhj/image/upload/v1684555717/antaImagenes/LOGO_RAY_gv9mmg.png" width="200">
+ <img src="https://res.cloudinary.com/dxxjmdkhj/image/upload/v1684767935/antaImagenes/LOGO_GITHUB_f1joww.png" width="200">
  <h1> Hi, I am Ray Marcelo</h1>
  <h3>I'm delighted to have you here, especially as a web and mobile developer from Peru. It's fantastic to connect with fellow 
     programmers who share the same passion for coding.
