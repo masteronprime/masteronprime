@@ -41,4 +41,4 @@
 
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masteronprime)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masteronprime&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
