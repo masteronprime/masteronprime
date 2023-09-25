@@ -1,8 +1,6 @@
 <div id="headers" align="center">
- <img src="https://res.cloudinary.com/dxxjmdkhj/image/upload/v1684767935/antaImagenes/LOGO_GITHUB_f1joww.png" width="200">
  <h1> Hi, I am Ray Marcelo</h1>
  <h3>I'm  a passionate web and mobile programmer. I find joy in crafting digital experiences that delight users. With expertise in languages such as Python, C++, JavaScript, PHP, Laravel, Arduino, MySQL, and Kotlin, I enjoy creating innovative solutions that push the boundaries of technology. Additionally, I am constantly expanding my skill set by learning new programming languages and frameworks to stay at the forefront of the ever-evolving tech landscape. Let's code and bring our ideas to life!</h3>
-
 
 </div>
 
